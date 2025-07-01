@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**MelkamuTeshome833/MelkamuTeshome833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Melkamu Teshome
 
-Here are some ideas to get you started:
+🎓 Electrical & Computer Engineering student at **Addis Ababa Science and Technology University (AASTU)**  
+💻 Passionate about **frontend web development** and **3D design with Blender**  
+🌱 Currently learning and building projects to grow my skills  
+🤝 Open to collaborate, learn in public, and share meaningful work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m working on
+- Frontend web projects using **HTML**, **CSS**, and **JavaScript**
+- Creative **Blender** models and renders
+- Combining tech & design to solve real problems
+
+## 📫 How to reach me
+- 📍 Addis Ababa, Ethiopia
+- 📧 [nex47596@gmail.com](mailto:nex47596@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/melkamu-teshome)
+
+---
+
+✨ *Always open to learning, creating, and connecting!*
+
